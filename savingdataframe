@@ -1,0 +1,2 @@
+thename.to_csv('file_path',encoding='utf-8',index=True)
+# File_path can be a full address. File will be created at the same directory as the py file if the path is not indicated.
